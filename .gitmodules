@@ -1,3 +1,6 @@
 [submodule "practicas/gia_ml3_practica1"]
 	path = practicas/gia_ml3_practica1
 	url = git@github.com:wrstdani/gia_ml3_practica1.git
+[submodule "practicas/gia_ml3_practica2"]
+	path = practicas/gia_ml3_practica2
+	url = git@github.com:wrstdani/gia_ml3_practica2.git
